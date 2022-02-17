@@ -1,0 +1,17 @@
+* #loading,
+#results {
+    display: none;
+}
+
+#loading img {
+    width: 200px;
+}
+	
+
+.container {
+    font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: rgb(3, 3, 3);
+	background: #dde2f1;
+}
